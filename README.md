@@ -22,9 +22,9 @@ python setup.py install
 ## Training
 Place the trained model under` ./pretrained`.
 
-Pretrained file link:
+Pretrained file link:[model](https://pan.baidu.com/s/12n6s6dyXr1V09gi_0tinAQ?pwd=w4d2)
 
-Download link for the training data `Alldata`.：
+Download link for the training data `Alldata`.：[data](https://drive.google.com/file/d/10gCKEIQfWR-3Ugsdb8VUrb95ISHNLIbq/view?usp=sharing)
 
 ```plain
 python ./train_new.py --name rdnet --dataset 0.2 
