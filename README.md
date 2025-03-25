@@ -45,9 +45,9 @@ Place the test image set under `Alldata\test\blended0`.
 <font style="color:rgb(35, 45, 54);background-color:rgb(247, 242, 235);">The trained weight file is located in </font>`[./pretrained](about:blank)`.
 
 ```plain
-rdnetcon2_050_00019000.pt              rdnet trained model.
-refine_007_00002730.pt                 rdnet trained model.
-dahazebest.pth                         dahaze trained model.
+rdnetcon2_050_00019000.pt              #rdnet trained model.
+refine_007_00002730.pt                 #rdnet trained model.
+dahazebest.pth                         #dahaze trained model.
 ```
 
   
