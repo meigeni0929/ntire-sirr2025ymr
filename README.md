@@ -19,6 +19,8 @@ python setup.py build
 python setup.py install
 ```
 
+DCNv4 download:[DCNv4](https://pan.baidu.com/s/1TxQgSy3koTthRIyuV5ol3w?pwd=dshq)
+
 ## Training
 Place the trained model under` ./pretrained`.
 
